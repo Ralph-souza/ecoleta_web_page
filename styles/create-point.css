@@ -31,3 +31,16 @@
 
     display: flex;
 }
+
+form {
+    background-color: white;
+
+    margin: 80px auto;
+    padding: 64px;
+
+    border-radius: 8px;
+
+    max-width: 730px;
+
+    box-sizing: border-box;
+}
