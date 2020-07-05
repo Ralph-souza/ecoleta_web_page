@@ -34,4 +34,4 @@ how to install node.js and which port access to run it.</p></br>
 <p>$ sudo apt install nodejs</p>
 
 <p>Then verify the version through:</p>
-<p>$ nodejs -v</p>
+<strong>$ nodejs -v</strong>
