@@ -44,8 +44,8 @@ how to install node.js and which port access to run it.</p></br>
 
 <strong>$ sudo apt install build-essential</strong>
 
-<p>It is important to install NPM Nodemon, in order to monitor the port</p>
+<p>It is important to install NPM Nodemon, in order to monitor the port, while developing that's why we use '-D'</p>
 
-<strong>npm install nodemon</strong>
+<strong>$ npm install nodemon -D</strong>
 
 <p>You can check out those instructions accessing 'http://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04-pt'</p>
