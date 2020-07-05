@@ -17,10 +17,10 @@ how to install node.js and which port access to run it.</p></br>
 <p>When using the BASH terminal the steps you need to follow are:</p>
 
 <p>1- Into you home use the command bellow to update the dependencies;</p>
-  <strong>$ sudo apt update</strong></br>
+  <strong>$ sudo apt update</strong>
   
 <p>2- Installing NODE.JS;</p>
-  <strong>$ sudo apt install nodejs</strong></br>
+  <strong>$ sudo apt install nodejs</strong>
   
 <p>However is important to know that probably the version you will have installed is not the v.12, to updtate it you will have to use PPA (Personal Packages
  Archive) in order to update your package to its right version. To do it is simple.</p>
@@ -35,3 +35,13 @@ how to install node.js and which port access to run it.</p></br>
 
 <p>Then verify the version through:</p>
 <strong>$ nodejs -v</strong>
+
+<p>The next step is to install the NPM (Node Packages Manager)</p>
+
+<strong>$ sudo apt install npm</strong>
+
+<It's important to remember that some NPM packages need the 'build-essential' to work properly, to install it type in the following command:
+
+<strong>$ sudo apt install build-essential</strong>
+
+<p>You can check out those instructions accessing 'http://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04-pt'</p>
