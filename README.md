@@ -9,5 +9,17 @@ and a dinamic one as JAVASCRIPT</p>
 <li>Register a new collection site;</li>
 <li>Search for collection sites by states/cities.</li></br>
 
-<p>In order to develop or test the project it's valid to use a VSCode plugin called "Live Server", which can be easily downloaded
-through VSCode extensions panel.</p></br>
+<p>In order to check a simplified version of this project it's important do install a VSCode plugin called "Live Server", however as it follows you will
+how to install node.js and which port access to run it.</p></br>
+
+<h1>Installing NODE.JS v.12 via terminal on UBUNTU 18</h1>
+
+<p>When using the BASH terminal the steps you need to follow are:</p>
+
+<p>1- Into you home use the command bellow to update the dependencies;</p>
+  <p>$ sudo apt update</p>
+  
+<p>2- Installing NODE.JS;</p>
+  <p>$ sudo apt install nodejs</p>
+  
+<p>However is important to know that probably the version you will have installed is not the v.12, to updtate it you will have to use PPA (Personal Packages Archive)</p>
