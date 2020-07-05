@@ -17,10 +17,10 @@ how to install node.js and which port access to run it.</p></br>
 <p>When using the BASH terminal the steps you need to follow are:</p>
 
 <p>1- Into you home use the command bellow to update the dependencies;</p>
-  <strong>$ sudo apt update</strong>
+  <strong>$ sudo apt update</strong></br>
   
 <p>2- Installing NODE.JS;</p>
-  <strong>$ sudo apt install nodejs</strong>
+  <strong>$ sudo apt install nodejs</strong></br>
   
 <p>However is important to know that probably the version you will have installed is not the v.12, to updtate it you will have to use PPA (Personal Packages
  Archive) in order to update your package to its right version. To do it is simple.</p>
